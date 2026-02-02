@@ -1,0 +1,98 @@
+Computer:
+	--Computer is a Electronic devices
+
+Electrical vs Electronic
+
+Electrical(Power and Energy)
+1)High Voltage,high Current
+2)less coding & More Hardware
+
+Electronic(Signal,logic & data)
+1)low Voltage,low Current 
+2)More coding and Hardware
+
+LLL(Low Level Language)
+	-- Programming Language
+	-- Close to hardware
+	-- Directly understand by the computer
+
+Machine Language:binary(0,1)
+	--very fast 
+	-- Directly communicate into cpu 
+
+Assembly Language
+
+HLL(High Level Language):
+	-- Programming Language 
+	-- easy to read ,Write and Understand
+
+compiler:whole code at time Run(java,c,C++)
+
+interpreter:line by line Check(Python)
+
+Why called Programming Language?
+	--Logical(and,or,not)
+	--Condition(if,ifelse,for,while,elif)
+	-- Rules and Syntax
+
+not Programming?
+	--HTML & CSS
+
+Program?
+	--Set of Instruction
+	--Ex: 5+10=15
+	--Specific Syntax
+	--Language Dependent
+	--Strict Rules follow
+
+Algorithm:
+	Step by step solve problem
+	-- Independent
+	-- No syntax
+Example
+	Start
+	read two numbers
+	add then 
+	Display
+	Stop
+
+Dynamic type:
+	no need to declare dataTypes
+	(int,float,String,Double)
+
+	example:javaScript,php,python
+
+Execution:
+	-- Running a program
+
+Run time Error:
+	-- while executing the program errors occurs
+
+
+Python Features:
+	-- Simple & easy to learn
+	-- Open Source
+	-- High level Language
+	-- Interpreted Language
+	-- Dynamic Type
+	-- OOPs (Object Oriented)
+	-- Large Standard Library
+		--math,numpy,pandas
+	-- Web Development,Data Science,Ai And Ml ,Automtion,
+		game development 
+
+
+
+
+
+	
+	
+
+
+
+
+
+
+
+
+
